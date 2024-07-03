@@ -70,7 +70,7 @@ toggle_button = tk.Button(root, text="Ligar Autoclicker (F7 tambem funciona)", c
 toggle_button.pack(pady=10)
 
 # Mostrar o status do auto clicker
-status_label = tk.Label(root, text="Auto clicker esta ligado")
+status_label = tk.Label(root, text="Auto clicker esta desligado")
 status_label.pack(pady=10)
 
 # Label to show the total number of clicks
